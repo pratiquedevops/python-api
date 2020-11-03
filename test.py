@@ -13,7 +13,7 @@ fenetre = Tk()
 # On crée un label (ligne de texte) souhaitant la bienvenue
 # Note : le premier paramètre passé au constructeur de Label est notre
 # interface racine
-champ_label = Label(fenetre, text="Salut les Zér0s !")
+champ_label = Label(fenetre, text="Salut les artustes !")
 
 # On affiche le label dans la fenêtre
 champ_label.pack()
